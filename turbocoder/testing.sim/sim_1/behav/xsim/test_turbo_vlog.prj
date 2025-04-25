@@ -1,0 +1,14 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../testing.srcs/sources_1/new/peremutation.sv" \
+"../../../../testing.srcs/sources_1/new/read.sv" \
+"../../../../testing.srcs/sources_1/new/read_perm.sv" \
+"../../../../testing.srcs/sources_1/new/rsc.sv" \
+"../../../../testing.srcs/sources_1/new/turbocoder.sv" \
+"../../../../testing.srcs/sim_1/new/test_turbo.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

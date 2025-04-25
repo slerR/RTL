@@ -1,0 +1,17 @@
+Time resolution is 1 ps
+$stop called at time : 1 us : File "C:/Xilinx/Vivado/CUM_LAB/lab_11/LowPass/lab_11.srcs/sim_1/new/LOW_PASS.sv" Line 79
+$stop called at time : 1 us : File "C:/Xilinx/Vivado/CUM_LAB/lab_11/LowPass/lab_11.srcs/sim_1/new/LOW_PASS.sv" Line 79
+$stop called at time : 1 us : File "C:/Xilinx/Vivado/CUM_LAB/lab_11/LowPass/lab_11.srcs/sim_1/new/LOW_PASS.sv" Line 79
+Error: File C:\\generic_sin\\data2fpga.dat is already at the end of file, nothing to read
+Time: 80025 ns  Iteration: 1  Process: /LOW_PASS/read_file_inst/read_data  File: C:/Xilinx/Vivado/CUM_LAB/lab_11/LowPass/lab_11.srcs/sources_1/new/read.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 80025 ns  Iteration: 1  Process: /LOW_PASS/read_file_inst/read_data  File: C:/Xilinx/Vivado/CUM_LAB/lab_11/LowPass/lab_11.srcs/sources_1/new/read.vhd
+Error: File C:\\generic_sin\\data2fpga.dat is already at the end of file, nothing to read
+Time: 80035 ns  Iteration: 1  Process: /LOW_PASS/read_file_inst/read_data  File: C:/Xilinx/Vivado/CUM_LAB/lab_11/LowPass/lab_11.srcs/sources_1/new/read.vhd
+Warning: TEXTIO function READ: line is empty
+Time: 80035 ns  Iteration: 1  Process: /LOW_PASS/read_file_inst/read_data  File: C:/Xilinx/Vivado/CUM_LAB/lab_11/LowPass/lab_11.srcs/sources_1/new/read.vhd
+ERROR: File C:\\generic_sin\\data2fpga.dat could not be opened.
+Time: 80045 ns  Iteration: 1  Process: /LOW_PASS/read_file_inst/read_data
+  File: C:/Xilinx/Vivado/CUM_LAB/lab_11/LowPass/lab_11.srcs/sources_1/new/read.vhd
+
+HDL Line: C:/Xilinx/Vivado/CUM_LAB/lab_11/LowPass/lab_11.srcs/sources_1/new/read.vhd:34

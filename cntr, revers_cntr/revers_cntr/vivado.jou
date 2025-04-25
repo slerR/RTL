@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Fri Apr 25 23:17:47 2025
+# Process ID: 13744
+# Current directory: C:/Xilinx/Vivado/CUM_LAB/lab_6/revers
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent11996 C:\Xilinx\Vivado\CUM_LAB\lab_6\revers\revers.xpr
+# Log file: C:/Xilinx/Vivado/CUM_LAB/lab_6/revers/vivado.log
+# Journal file: C:/Xilinx/Vivado/CUM_LAB/lab_6/revers\vivado.jou
+# Running On: feduuk, OS: Windows, CPU Frequency: 3294 MHz, CPU Physical cores: 12, Host memory: 16487 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Xilinx/Vivado/CUM_LAB/lab_6/revers/revers.xpr
+update_compile_order -fileset sources_1

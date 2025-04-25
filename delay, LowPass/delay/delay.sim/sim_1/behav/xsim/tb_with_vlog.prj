@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../delay.srcs/sources_1/new/delay_with_srst.sv" \
+"../../../../delay.srcs/sim_1/new/tb_with.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

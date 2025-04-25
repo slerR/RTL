@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Mon Jan 20 03:09:10 2025
+# Process ID: 15944
+# Current directory: C:/Xilinx/Vivado/CUM_LAB/testing/testing.runs/synth_2
+# Command line: vivado.exe -log turbocoder.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source turbocoder.tcl
+# Log file: C:/Xilinx/Vivado/CUM_LAB/testing/testing.runs/synth_2/turbocoder.vds
+# Journal file: C:/Xilinx/Vivado/CUM_LAB/testing/testing.runs/synth_2\vivado.jou
+# Running On: feduuk, OS: Windows, CPU Frequency: 3294 MHz, CPU Physical cores: 12, Host memory: 16487 MB
+#-----------------------------------------------------------
+source turbocoder.tcl -notrace

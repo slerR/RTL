@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Sat Nov  2 22:49:34 2024
+# Process ID: 2004
+# Current directory: C:/Xilinx/Vivado/CUM_LAB/lab_10/convert_fix_to_float/convert_fix_to_float.runs/synth_1
+# Command line: vivado.exe -log fixed_to_float.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source fixed_to_float.tcl
+# Log file: C:/Xilinx/Vivado/CUM_LAB/lab_10/convert_fix_to_float/convert_fix_to_float.runs/synth_1/fixed_to_float.vds
+# Journal file: C:/Xilinx/Vivado/CUM_LAB/lab_10/convert_fix_to_float/convert_fix_to_float.runs/synth_1\vivado.jou
+# Running On: feduuk, OS: Windows, CPU Frequency: 3294 MHz, CPU Physical cores: 12, Host memory: 16487 MB
+#-----------------------------------------------------------
+source fixed_to_float.tcl -notrace
